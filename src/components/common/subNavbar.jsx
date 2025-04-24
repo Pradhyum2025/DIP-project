@@ -30,7 +30,7 @@ export const SubNavbar = () => {
         </button>
 
         {/* --- filter Btn ---*/}
-        <button className="p-2 text-gray-600 hover:bg-gray-100 rounded-lg cursor-pointer">
+        <button className="p-2    text-gray-600 hover:bg-gray-100 rounded-lg cursor-pointer">
         <Filter/>
         </button>
 
